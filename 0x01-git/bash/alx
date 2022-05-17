@@ -1,1 +1,2 @@
-this isbah
+#!/bin/bash
+echo "ALX"

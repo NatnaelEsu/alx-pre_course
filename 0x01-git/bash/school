@@ -1,1 +1,2 @@
-this is bash
+#!bin/bash
+echo "School"
